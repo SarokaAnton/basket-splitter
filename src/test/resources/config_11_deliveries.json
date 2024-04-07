@@ -1,0 +1,10 @@
+{
+  "Cookies Oatmeal Raisin": ["Pick-up point", "Parcel locker", "Courier", "Same day delivery", "Next day shipping", "Mailbox delivery", "Express Collection", "Delivery", "Glovo", "Uber", "Wolt"],
+  "Cheese Cloth": ["Courier", "Parcel locker", "Same day delivery", "Next day shipping", "Pick-up point"],
+  "English Muffin": ["Mailbox delivery", "Courier", "In-store pick-up", "Parcel locker", "Next day shipping", "Express Collection"],
+  "Ecolab - Medallion": ["Mailbox delivery", "Parcel locker", "Courier", "In-store pick-up"],
+  "Chocolate - Unsweetened": ["In-store pick-up", "Parcel locker", "Same day delivery", "Pick-up point", "Courier", "Express Collection", "Mailbox delivery", "Next day shipping"],
+  "Shrimp - 21/25, Peel And Deviened": ["Pick-up point", "In-store pick-up", "Express Collection", "Mailbox delivery", "Same day delivery", "Courier", "Parcel locker"],
+  "Beer - Alexander Kieths, Pale Ale": ["In-store pick-up", "Same day delivery", "Next day shipping", "Express Collection", "Mailbox delivery", "Courier", "Parcel locker"]
+}
+
